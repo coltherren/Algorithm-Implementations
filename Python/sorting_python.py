@@ -38,6 +38,3 @@ def selectionSort(list:list, high_or_low:str = "low"):
             if compare(list[j], list[index]):
                 index = j
         (list[i], list[index]) = (list[index], list[i])
-
-bubbleSort(unsorted_list)
-print(unsorted_list)
