@@ -1,4 +1,4 @@
-# Algorithms Implementations
+# Algorithm Implementations
 ## Python
 ### Sorting 
 1. Selection Sort (FP / OOP) <br>
