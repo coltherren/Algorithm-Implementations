@@ -1,4 +1,5 @@
-# algorithms <br>
-completed <br>
-selection sort (normal & OOP) <br>
-bubble sort (normal & OOP) <br>
+# Algorithms 
+## Sorting 
+### Python 
+1. Selection Sort (FP / OOP) <br>
+2. Bubble Sort (FP / OOP) <br>
