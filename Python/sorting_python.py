@@ -1,4 +1,3 @@
-from unsorted_list_data import unsorted_list
 import operator
 
 
